@@ -1,0 +1,5 @@
+{
+  "workbench.editor.customLabels.patterns": {
+    "**/{index,page}.{ts,tsx}}": " ${dirname(1)}>${dirname}>${filename}"
+  }
+}
